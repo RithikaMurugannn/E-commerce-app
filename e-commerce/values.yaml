@@ -1,6 +1,6 @@
 namespace: eco-ns 
 
-replicas: 5
+replicas: 2
 
 appDeployment:
  labels:
